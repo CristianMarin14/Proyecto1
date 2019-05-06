@@ -1,0 +1,27 @@
+
+
+cls -> para limpiar
+
+git init -> iniciar un repocitorio vacio 
+
+git status -> para mirar que hay y que hay en el repocitorio
+
+para agregar repocitorio local -> git add + nombre de lo que quiere subir 
+
+para subir Todo -> git add .
+
+Para crear una vercion del Proyecto al repocitorio local -> 
+git commit -m(para no abrir otra line mas abanzada) "Comentario"
+
+git push -> para subirlo al repocitorio de la nube
+
+gitk -> para abrir una ventana donde muestra lo que a hecho
+
+git remote -v -> ver en que repositorio estoy trabajando
+
+git pull -> cuando hacen cambios en la nube, usted actualiza los archivos 
+
+git log -> permite ver los commit que se han hecho desde el inicio 
+
+branch -> 
+
